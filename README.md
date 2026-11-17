@@ -20,33 +20,33 @@ configs:
 
 # Weekly engineering hiring data
 
-Free weekly data on who is hiring software engineers: open roles, new roles in the last 7 days and published pay. It covers 377 tech companies and YC startups with open engineering roles. Built from public career pages (Greenhouse, Lever, Ashby, Workday and 9 other applicant tracking systems) by [Matrixx Hiring Signals](https://matrixx-hiring-signals.netlify.app/?utm_source=github&utm_medium=referral&utm_campaign=dataset). Updated every Monday.
+Free weekly data on who is hiring software engineers: open roles, new roles in the last 7 days and published pay. It covers 377 tech companies and YC startups with open engineering roles. Built from public career pages (Greenhouse, Lever, Ashby, Workday and 9 other applicant tracking systems) by [Matrixx Hiring Signals](https://matrixx-hiring-signals.pages.dev/?utm_source=github&utm_medium=referral&utm_campaign=dataset). Updated every Monday.
 
 ## This week (2026-11-17)
 
 | Metric | Value |
 |---|---|
 | Open engineering roles | 6,269 |
-| New roles, last 7 days | 433 |
-| Companies hiring this week | 116 |
-| Roles open 30+ days | 3,008 |
-| Roles open 90+ days | 1,162 |
+| New roles, last 7 days | 426 |
+| Companies hiring this week | 111 |
+| Roles open 30+ days | 3,007 |
+| Roles open 90+ days | 1,161 |
 | Median published pay | $226k |
 
 ### Startups opening the most engineering roles
 
 | Startup | New roles | Open roles |
 |---|---:|---:|
-| [Zip](https://matrixx-hiring-signals.netlify.app/companies/zip/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 6 | 10 |
-| [Athelas](https://matrixx-hiring-signals.netlify.app/companies/athelas/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 5 | 32 |
-| [Overview](https://matrixx-hiring-signals.netlify.app/companies/overview/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 4 | 33 |
-| [Encord](https://matrixx-hiring-signals.netlify.app/companies/encord/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 4 | 16 |
-| [Legora](https://matrixx-hiring-signals.netlify.app/companies/legora/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 52 |
-| [HappyRobot](https://matrixx-hiring-signals.netlify.app/companies/happyrobot/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 20 |
-| [ARQ](https://matrixx-hiring-signals.netlify.app/companies/arq/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 12 |
-| [Alpaca](https://matrixx-hiring-signals.netlify.app/companies/alpaca/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 32 |
-| [voize](https://matrixx-hiring-signals.netlify.app/companies/voize/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 12 |
-| [Adaptyv](https://matrixx-hiring-signals.netlify.app/companies/adaptyv/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 11 |
+| [Zip](https://matrixx-hiring-signals.pages.dev/companies/zip/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 6 | 10 |
+| [Athelas](https://matrixx-hiring-signals.pages.dev/companies/athelas/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 5 | 32 |
+| [Overview](https://matrixx-hiring-signals.pages.dev/companies/overview/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 4 | 33 |
+| [Encord](https://matrixx-hiring-signals.pages.dev/companies/encord/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 4 | 16 |
+| [Legora](https://matrixx-hiring-signals.pages.dev/companies/legora/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 52 |
+| [HappyRobot](https://matrixx-hiring-signals.pages.dev/companies/happyrobot/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 20 |
+| [ARQ](https://matrixx-hiring-signals.pages.dev/companies/arq/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 3 | 12 |
+| [Alpaca](https://matrixx-hiring-signals.pages.dev/companies/alpaca/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 32 |
+| [voize](https://matrixx-hiring-signals.pages.dev/companies/voize/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 12 |
+| [Adaptyv](https://matrixx-hiring-signals.pages.dev/companies/adaptyv/?utm_source=github&utm_medium=referral&utm_campaign=dataset) | 2 | 11 |
 
 ### Median pay by role family
 
@@ -77,13 +77,13 @@ Free weekly data on who is hiring software engineers: open roles, new roles in t
 - "New" means posted in the last 7 days.
 - Pay is the midpoint of the published range, converted to yearly USD.
 
-Full method: https://matrixx-hiring-signals.netlify.app/methodology.html
+Full method: https://matrixx-hiring-signals.pages.dev/methodology.html
 
 ## License and citation
 
-CC BY 4.0. Credit "Matrixx Hiring Signals" with a link to https://matrixx-hiring-signals.netlify.app/data/.
+CC BY 4.0. Credit "Matrixx Hiring Signals" with a link to https://matrixx-hiring-signals.pages.dev/data/.
 
 Free tools on the same data:
-- [Salary benchmark](https://matrixx-hiring-signals.netlify.app/tools/salary-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=dataset)
-- [Startups hiring engineers this week](https://matrixx-hiring-signals.netlify.app/startups-hiring-engineers-this-week/?utm_source=github&utm_medium=referral&utm_campaign=dataset)
-- [Weekly insights](https://matrixx-hiring-signals.netlify.app/insights/?utm_source=github&utm_medium=referral&utm_campaign=dataset)
+- [Salary benchmark](https://matrixx-hiring-signals.pages.dev/tools/salary-benchmark/?utm_source=github&utm_medium=referral&utm_campaign=dataset)
+- [Startups hiring engineers this week](https://matrixx-hiring-signals.pages.dev/startups-hiring-engineers-this-week/?utm_source=github&utm_medium=referral&utm_campaign=dataset)
+- [Weekly insights](https://matrixx-hiring-signals.pages.dev/insights/?utm_source=github&utm_medium=referral&utm_campaign=dataset)

@@ -1,378 +1,378 @@
 company,segment,open_engineering_roles,new_this_week,remote_roles,median_usd,profile_url
-"Celonis",enterprise,104,19,13,170000,https://matrixx-hiring-signals.netlify.app/companies/celonis/
-"Elastic",enterprise,178,18,48,171850,https://matrixx-hiring-signals.netlify.app/companies/elastic/
-"Snowflake",enterprise,166,17,17,248625,https://matrixx-hiring-signals.netlify.app/companies/snowflake/
-"Okta",enterprise,150,17,16,218500,https://matrixx-hiring-signals.netlify.app/companies/okta/
-"MongoDB",enterprise,120,15,11,187000,https://matrixx-hiring-signals.netlify.app/companies/mongodb/
-"Affirm",enterprise,109,14,109,195000,https://matrixx-hiring-signals.netlify.app/companies/affirm/
-"Rocket Lab",enterprise,54,14,0,165000,https://matrixx-hiring-signals.netlify.app/companies/rocket-lab/
-"OpenAI",enterprise,333,13,12,355500,https://matrixx-hiring-signals.netlify.app/companies/openai/
-"Stripe",enterprise,162,13,14,213050,https://matrixx-hiring-signals.netlify.app/companies/stripe/
-"ClickHouse",enterprise,119,10,99,196000,https://matrixx-hiring-signals.netlify.app/companies/clickhouse/
-"Toast",enterprise,61,9,28,251000,https://matrixx-hiring-signals.netlify.app/companies/toast/
-"Contentful",enterprise,16,9,0,132425,https://matrixx-hiring-signals.netlify.app/companies/contentful/
-"Perplexity",enterprise,56,8,4,312500,https://matrixx-hiring-signals.netlify.app/companies/perplexity/
-"Coinbase",enterprise,98,7,98,202483,https://matrixx-hiring-signals.netlify.app/companies/coinbase/
-"Harvey",enterprise,87,7,5,285500,https://matrixx-hiring-signals.netlify.app/companies/harvey/
-"Brex",enterprise,60,7,57,262500,https://matrixx-hiring-signals.netlify.app/companies/brex/
-"Anthropic",enterprise,209,6,11,402500,https://matrixx-hiring-signals.netlify.app/companies/anthropic/
-"GitLab",enterprise,64,6,52,196000,https://matrixx-hiring-signals.netlify.app/companies/gitlab/
-"Plaid",enterprise,44,6,1,226800,https://matrixx-hiring-signals.netlify.app/companies/plaid/
-"Zip",startup,10,6,0,202500,https://matrixx-hiring-signals.netlify.app/companies/zip/
-"Databricks",enterprise,302,5,83,216104,https://matrixx-hiring-signals.netlify.app/companies/databricks/
-"Cloudflare",enterprise,131,5,8,230000,https://matrixx-hiring-signals.netlify.app/companies/cloudflare/
-"Samsara",enterprise,57,5,56,207350,https://matrixx-hiring-signals.netlify.app/companies/samsara/
-"Airbnb",enterprise,51,5,49,238500,https://matrixx-hiring-signals.netlify.app/companies/airbnb/
-"Ramp",enterprise,35,5,4,251000,https://matrixx-hiring-signals.netlify.app/companies/ramp/
-"Netskope",enterprise,34,5,0,175750,https://matrixx-hiring-signals.netlify.app/companies/netskope/
-"Athelas",startup,32,5,3,200000,https://matrixx-hiring-signals.netlify.app/companies/athelas/
-"Rubrik",enterprise,27,5,2,197500,https://matrixx-hiring-signals.netlify.app/companies/rubrik/
-"Flexport",enterprise,26,5,9,,https://matrixx-hiring-signals.netlify.app/companies/flexport/
-"Dropbox",enterprise,20,5,20,227700,https://matrixx-hiring-signals.netlify.app/companies/dropbox/
-"Nuro",enterprise,65,4,1,242540,https://matrixx-hiring-signals.netlify.app/companies/nuro/
-"Fivetran",enterprise,61,4,18,210039,https://matrixx-hiring-signals.netlify.app/companies/fivetran/
-"Grafana Labs",enterprise,52,4,52,192485,https://matrixx-hiring-signals.netlify.app/companies/grafana-labs/
-"Overview",startup,33,4,4,,https://matrixx-hiring-signals.netlify.app/companies/overview/
-"Lyft",enterprise,32,4,1,166500,https://matrixx-hiring-signals.netlify.app/companies/lyft/
-"ElevenLabs",enterprise,30,4,30,,https://matrixx-hiring-signals.netlify.app/companies/elevenlabs/
-"Encord",startup,16,4,0,205000,https://matrixx-hiring-signals.netlify.app/companies/encord/
-"Airbyte",enterprise,5,4,0,215500,https://matrixx-hiring-signals.netlify.app/companies/airbyte/
-"Applied Intuition",enterprise,140,3,0,200000,https://matrixx-hiring-signals.netlify.app/companies/applied-intuition/
-"Waymo",enterprise,105,3,3,238000,https://matrixx-hiring-signals.netlify.app/companies/waymo/
-"Reddit",enterprise,80,3,80,260050,https://matrixx-hiring-signals.netlify.app/companies/reddit/
-"Robinhood",enterprise,59,3,0,257920,https://matrixx-hiring-signals.netlify.app/companies/robinhood/
-"Legora",startup,52,3,0,264000,https://matrixx-hiring-signals.netlify.app/companies/legora/
-"Supabase",enterprise,36,3,36,,https://matrixx-hiring-signals.netlify.app/companies/supabase/
-"Temporal",enterprise,35,3,34,185900,https://matrixx-hiring-signals.netlify.app/companies/temporal/
-"Twilio",enterprise,30,3,30,156231,https://matrixx-hiring-signals.netlify.app/companies/twilio/
-"Chime",enterprise,28,3,0,195500,https://matrixx-hiring-signals.netlify.app/companies/chime/
-"HappyRobot",startup,20,3,3,195000,https://matrixx-hiring-signals.netlify.app/companies/happyrobot/
-"Tailscale",enterprise,19,3,19,194500,https://matrixx-hiring-signals.netlify.app/companies/tailscale/
-"Instacart",enterprise,18,3,17,212750,https://matrixx-hiring-signals.netlify.app/companies/instacart/
-"Hex",enterprise,13,3,7,249500,https://matrixx-hiring-signals.netlify.app/companies/hex/
-"ARQ",startup,12,3,0,,https://matrixx-hiring-signals.netlify.app/companies/arq/
-"Benchling",enterprise,9,3,0,180000,https://matrixx-hiring-signals.netlify.app/companies/benchling/
-"Verkada",enterprise,70,2,0,225000,https://matrixx-hiring-signals.netlify.app/companies/verkada/
-"Asana",enterprise,37,2,0,323500,https://matrixx-hiring-signals.netlify.app/companies/asana/
-"Cohere",enterprise,35,2,19,255000,https://matrixx-hiring-signals.netlify.app/companies/cohere/
-"Klaviyo",enterprise,35,2,2,185000,https://matrixx-hiring-signals.netlify.app/companies/klaviyo/
-"Datadog",enterprise,33,2,12,216000,https://matrixx-hiring-signals.netlify.app/companies/datadog/
-"Relativity Space",enterprise,33,2,2,163000,https://matrixx-hiring-signals.netlify.app/companies/relativity-space/
-"Alpaca",startup,32,2,32,,https://matrixx-hiring-signals.netlify.app/companies/alpaca/
-"Sentry",enterprise,27,2,0,301250,https://matrixx-hiring-signals.netlify.app/companies/sentry/
-"Oscar Health",enterprise,21,2,3,208708,https://matrixx-hiring-signals.netlify.app/companies/oscar-health/
-"Hims & Hers",enterprise,19,2,14,217500,https://matrixx-hiring-signals.netlify.app/companies/hims-and-hers/
-"Replit",enterprise,18,2,0,287500,https://matrixx-hiring-signals.netlify.app/companies/replit/
-"voize",startup,12,2,6,,https://matrixx-hiring-signals.netlify.app/companies/voize/
-"Adaptyv",startup,11,2,0,,https://matrixx-hiring-signals.netlify.app/companies/adaptyv/
-"AiPrise",startup,11,2,0,207500,https://matrixx-hiring-signals.netlify.app/companies/aiprise/
-"Discord",enterprise,10,2,6,263250,https://matrixx-hiring-signals.netlify.app/companies/discord/
-"Squarespace",enterprise,9,2,1,238375,https://matrixx-hiring-signals.netlify.app/companies/squarespace/
-"Patreon",enterprise,8,2,2,287000,https://matrixx-hiring-signals.netlify.app/companies/patreon/
-"Poshmark",enterprise,8,2,0,175000,https://matrixx-hiring-signals.netlify.app/companies/poshmark/
-"Retell AI",startup,7,2,0,250000,https://matrixx-hiring-signals.netlify.app/companies/retell-ai/
-"Snyk",enterprise,7,2,0,216000,https://matrixx-hiring-signals.netlify.app/companies/snyk/
-"Curri",startup,6,2,6,200000,https://matrixx-hiring-signals.netlify.app/companies/curri/
-"Lattice",enterprise,4,2,4,211000,https://matrixx-hiring-signals.netlify.app/companies/lattice/
-"Palantir",enterprise,147,1,0,167500,https://matrixx-hiring-signals.netlify.app/companies/palantir/
-"Rippling",enterprise,126,1,2,,https://matrixx-hiring-signals.netlify.app/companies/rippling/
-"Scale AI",enterprise,67,1,3,243225,https://matrixx-hiring-signals.netlify.app/companies/scale-ai/
-"Pinterest",enterprise,58,1,33,270990,https://matrixx-hiring-signals.netlify.app/companies/pinterest/
-"Spur (Ashby)",startup,45,1,8,187500,https://matrixx-hiring-signals.netlify.app/companies/spur-ashby/
-"Spotify",enterprise,27,1,14,276244,https://matrixx-hiring-signals.netlify.app/companies/spotify/
-"Gusto",enterprise,26,1,0,191500,https://matrixx-hiring-signals.netlify.app/companies/gusto/
-"May Mobility",startup,17,1,8,165000,https://matrixx-hiring-signals.netlify.app/companies/may-mobility/
-"Cursor",enterprise,16,1,3,277500,https://matrixx-hiring-signals.netlify.app/companies/cursor/
-"Faire",enterprise,15,1,15,274500,https://matrixx-hiring-signals.netlify.app/companies/faire/
-"Retool",enterprise,15,1,0,234900,https://matrixx-hiring-signals.netlify.app/companies/retool/
-"Taktile",startup,15,1,0,242500,https://matrixx-hiring-signals.netlify.app/companies/taktile/
-"Deepgram",startup,14,1,10,227750,https://matrixx-hiring-signals.netlify.app/companies/deepgram/
-"Amplitude",enterprise,12,1,2,229500,https://matrixx-hiring-signals.netlify.app/companies/amplitude/
-"Eight Sleep",startup,12,1,3,195000,https://matrixx-hiring-signals.netlify.app/companies/eight-sleep/
-"LiteLLM",startup,11,1,1,230000,https://matrixx-hiring-signals.netlify.app/companies/litellm/
-"Strava",enterprise,11,1,0,222000,https://matrixx-hiring-signals.netlify.app/companies/strava/
-"Webflow",enterprise,10,1,10,247375,https://matrixx-hiring-signals.netlify.app/companies/webflow/
-"Gecko Robotics",startup,9,1,0,209000,https://matrixx-hiring-signals.netlify.app/companies/gecko-robotics/
-"Quindar",startup,9,1,0,165000,https://matrixx-hiring-signals.netlify.app/companies/quindar/
-"Attentive",enterprise,8,1,0,241500,https://matrixx-hiring-signals.netlify.app/companies/attentive/
-"StockX",enterprise,8,1,1,187500,https://matrixx-hiring-signals.netlify.app/companies/stockx/
-"Checkr",startup,7,1,7,201500,https://matrixx-hiring-signals.netlify.app/companies/checkr/
-"Nox Metals",startup,6,1,0,154750,https://matrixx-hiring-signals.netlify.app/companies/nox-metals/
-"Tennr",startup,6,1,0,177500,https://matrixx-hiring-signals.netlify.app/companies/tennr/
-"Human Interest",startup,4,1,4,210000,https://matrixx-hiring-signals.netlify.app/companies/human-interest/
-"Outreach",enterprise,4,1,3,145000,https://matrixx-hiring-signals.netlify.app/companies/outreach/
-"Ello",startup,3,1,0,197500,https://matrixx-hiring-signals.netlify.app/companies/ello/
-"Harper",startup,3,1,0,210000,https://matrixx-hiring-signals.netlify.app/companies/harper/
-"PostHog",startup,3,1,2,,https://matrixx-hiring-signals.netlify.app/companies/posthog/
-"Sully",startup,3,1,0,,https://matrixx-hiring-signals.netlify.app/companies/sully/
-"Alex",startup,2,1,0,150000,https://matrixx-hiring-signals.netlify.app/companies/alex/
-"bunq",enterprise,2,1,0,,https://matrixx-hiring-signals.netlify.app/companies/bunq/
-"Cockroach Labs",enterprise,2,1,2,153775,https://matrixx-hiring-signals.netlify.app/companies/cockroach-labs/
-"Handoff",startup,2,1,0,,https://matrixx-hiring-signals.netlify.app/companies/handoff/
-"Sieve",startup,2,1,0,218750,https://matrixx-hiring-signals.netlify.app/companies/sieve/
-"Beyond Reach Labs",startup,1,1,0,110000,https://matrixx-hiring-signals.netlify.app/companies/beyond-reach-labs/
-"CoinTracker",startup,1,1,1,174013,https://matrixx-hiring-signals.netlify.app/companies/cointracker/
-"GovDash",startup,1,1,0,180000,https://matrixx-hiring-signals.netlify.app/companies/govdash/
-"Tovala",startup,1,1,0,175000,https://matrixx-hiring-signals.netlify.app/companies/tovala/
-"Weaviate",enterprise,1,1,1,,https://matrixx-hiring-signals.netlify.app/companies/weaviate/
-"Together AI",enterprise,35,0,6,245000,https://matrixx-hiring-signals.netlify.app/companies/together-ai/
-"Vector (Greenhouse)",startup,31,0,5,222500,https://matrixx-hiring-signals.netlify.app/companies/vector-greenhouse/
-"Notion",enterprise,28,0,0,207500,https://matrixx-hiring-signals.netlify.app/companies/notion/
-"Vercel",enterprise,27,0,1,245000,https://matrixx-hiring-signals.netlify.app/companies/vercel/
-"Tailor",startup,26,0,3,150000,https://matrixx-hiring-signals.netlify.app/companies/tailor/
-"Figma",enterprise,25,0,2,264500,https://matrixx-hiring-signals.netlify.app/companies/figma/
-"Vanta",enterprise,23,0,23,233250,https://matrixx-hiring-signals.netlify.app/companies/vanta/
-"Abnormal Security",enterprise,22,0,11,181850,https://matrixx-hiring-signals.netlify.app/companies/abnormal-security/
-"Astranis",startup,21,0,0,172500,https://matrixx-hiring-signals.netlify.app/companies/astranis/
-"Mercury",enterprise,19,0,19,217275,https://matrixx-hiring-signals.netlify.app/companies/mercury/
-"HUD",startup,18,0,0,165000,https://matrixx-hiring-signals.netlify.app/companies/hud/
-"Ro",enterprise,17,0,0,212650,https://matrixx-hiring-signals.netlify.app/companies/ro/
-"Duolingo",enterprise,15,0,0,255000,https://matrixx-hiring-signals.netlify.app/companies/duolingo/
-"Array Labs",startup,14,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/array-labs/
-"Monzo",enterprise,14,0,9,,https://matrixx-hiring-signals.netlify.app/companies/monzo/
-"Nourish",startup,14,0,6,,https://matrixx-hiring-signals.netlify.app/companies/nourish/
-"Confido",startup,13,0,0,240000,https://matrixx-hiring-signals.netlify.app/companies/confido/
-"Giga",startup,13,0,0,277500,https://matrixx-hiring-signals.netlify.app/companies/giga/
-"Modal",enterprise,13,0,0,213750,https://matrixx-hiring-signals.netlify.app/companies/modal/
-"Fieldguide",startup,12,0,6,223750,https://matrixx-hiring-signals.netlify.app/companies/fieldguide/
-"Roboflow",startup,12,0,11,180000,https://matrixx-hiring-signals.netlify.app/companies/roboflow/
-"Podium",startup,11,0,7,,https://matrixx-hiring-signals.netlify.app/companies/podium/
-"Reducto",startup,11,0,0,250000,https://matrixx-hiring-signals.netlify.app/companies/reducto/
-"Candid Health",startup,10,0,0,199500,https://matrixx-hiring-signals.netlify.app/companies/candid-health/
-"Gemini",enterprise,10,0,6,170000,https://matrixx-hiring-signals.netlify.app/companies/gemini/
-"Kalshi",startup,10,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/kalshi/
-"Linear",enterprise,10,0,10,235250,https://matrixx-hiring-signals.netlify.app/companies/linear/
-"Vector (Greenhouse)",startup,10,0,0,210250,https://matrixx-hiring-signals.netlify.app/companies/vector-greenhouse-2/
-"CircuitHub",startup,9,0,7,140000,https://matrixx-hiring-signals.netlify.app/companies/circuithub/
-"Drata",enterprise,9,0,0,204750,https://matrixx-hiring-signals.netlify.app/companies/drata/
-"AfterQuery",startup,8,0,0,275000,https://matrixx-hiring-signals.netlify.app/companies/afterquery/
-"Algolia",startup,8,0,8,,https://matrixx-hiring-signals.netlify.app/companies/algolia/
-"Luminai",startup,8,0,0,220000,https://matrixx-hiring-signals.netlify.app/companies/luminai/
-"Rootly",startup,8,0,0,,https://matrixx-hiring-signals.netlify.app/companies/rootly/
-"Shepherd",startup,8,0,0,285000,https://matrixx-hiring-signals.netlify.app/companies/shepherd/
-"Weave",startup,8,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/weave/
-"AssemblyAI",startup,7,0,7,187500,https://matrixx-hiring-signals.netlify.app/companies/assemblyai/
-"Astro Mechanica",startup,7,0,0,187500,https://matrixx-hiring-signals.netlify.app/companies/astro-mechanica/
-"Broccoli AI",startup,7,0,0,247500,https://matrixx-hiring-signals.netlify.app/companies/broccoli-ai/
-"Campfire",startup,7,0,0,215000,https://matrixx-hiring-signals.netlify.app/companies/campfire/
-"Metriport",startup,7,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/metriport/
-"PagerDuty",enterprise,7,0,1,240150,https://matrixx-hiring-signals.netlify.app/companies/pagerduty/
-"Pave",startup,7,0,0,395200,https://matrixx-hiring-signals.netlify.app/companies/pave/
-"Vector (Ashby)",startup,7,0,1,205000,https://matrixx-hiring-signals.netlify.app/companies/vector-ashby/
-"Vetcove",startup,7,0,7,170000,https://matrixx-hiring-signals.netlify.app/companies/vetcove/
-"Adalat AI",startup,6,0,0,,https://matrixx-hiring-signals.netlify.app/companies/adalat-ai/
-"Blissway",startup,6,0,0,162500,https://matrixx-hiring-signals.netlify.app/companies/blissway/
-"Carta",enterprise,6,0,0,520000,https://matrixx-hiring-signals.netlify.app/companies/carta/
-"Gridware",startup,6,0,0,228750,https://matrixx-hiring-signals.netlify.app/companies/gridware/
-"Human Archive",startup,6,0,0,150000,https://matrixx-hiring-signals.netlify.app/companies/human-archive/
-"Icarus",startup,6,0,0,125000,https://matrixx-hiring-signals.netlify.app/companies/icarus/
-"Juicebox",startup,6,0,0,251250,https://matrixx-hiring-signals.netlify.app/companies/juicebox/
-"Mashgin",startup,6,0,2,196250,https://matrixx-hiring-signals.netlify.app/companies/mashgin/
-"Nextdoor",enterprise,6,0,5,207500,https://matrixx-hiring-signals.netlify.app/companies/nextdoor/
-"PointOne",startup,6,0,0,183750,https://matrixx-hiring-signals.netlify.app/companies/pointone/
-"Pulse",startup,6,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/pulse/
-"SalesPatriot",startup,6,0,0,130000,https://matrixx-hiring-signals.netlify.app/companies/salespatriot/
-"SigNoz",startup,6,0,5,185000,https://matrixx-hiring-signals.netlify.app/companies/signoz/
-"Skyways",startup,6,0,0,167500,https://matrixx-hiring-signals.netlify.app/companies/skyways/
-"Speak",startup,6,0,0,227500,https://matrixx-hiring-signals.netlify.app/companies/speak/
-"Spellbrush",startup,6,0,1,,https://matrixx-hiring-signals.netlify.app/companies/spellbrush/
-"SpruceID",startup,6,0,6,161250,https://matrixx-hiring-signals.netlify.app/companies/spruceid/
-"Wordware",startup,6,0,0,210000,https://matrixx-hiring-signals.netlify.app/companies/wordware/
-"9 Mothers",startup,5,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/9-mothers/
-"Ambient.ai",startup,5,0,0,186500,https://matrixx-hiring-signals.netlify.app/companies/ambient-ai/
-"Auctor",startup,5,0,0,232500,https://matrixx-hiring-signals.netlify.app/companies/auctor/
-"BioRender",startup,5,0,5,,https://matrixx-hiring-signals.netlify.app/companies/biorender/
-"Camber",startup,5,0,0,205000,https://matrixx-hiring-signals.netlify.app/companies/camber/
-"CaptivateIQ",startup,5,0,5,227619,https://matrixx-hiring-signals.netlify.app/companies/captivateiq/
-"GiveCampus",startup,5,0,5,,https://matrixx-hiring-signals.netlify.app/companies/givecampus/
-"Greptile",startup,5,0,0,262500,https://matrixx-hiring-signals.netlify.app/companies/greptile/
-"Hugging Face",enterprise,5,0,5,,https://matrixx-hiring-signals.netlify.app/companies/hugging-face/
-"Mercura",startup,5,0,0,,https://matrixx-hiring-signals.netlify.app/companies/mercura/
-"Meticulous",startup,5,0,0,300000,https://matrixx-hiring-signals.netlify.app/companies/meticulous/
-"Mixpanel",enterprise,5,0,2,256250,https://matrixx-hiring-signals.netlify.app/companies/mixpanel/
-"Nash",startup,5,0,3,,https://matrixx-hiring-signals.netlify.app/companies/nash/
-"Outset",startup,5,0,0,230000,https://matrixx-hiring-signals.netlify.app/companies/outset/
-"Prodigal",startup,5,0,0,,https://matrixx-hiring-signals.netlify.app/companies/prodigal/
-"Pylon",startup,5,0,0,230000,https://matrixx-hiring-signals.netlify.app/companies/pylon/
-"Rescale",startup,5,0,5,137000,https://matrixx-hiring-signals.netlify.app/companies/rescale/
-"Salient",startup,5,0,0,250000,https://matrixx-hiring-signals.netlify.app/companies/salient/
-"Santé",startup,5,0,0,255000,https://matrixx-hiring-signals.netlify.app/companies/sante/
-"Slash",startup,5,0,0,300000,https://matrixx-hiring-signals.netlify.app/companies/slash/
-"Tavus",startup,5,0,1,205000,https://matrixx-hiring-signals.netlify.app/companies/tavus/
-"Triomics",startup,5,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/triomics/
-"Y Combinator",startup,5,0,0,375000,https://matrixx-hiring-signals.netlify.app/companies/y-combinator/
-"Yuma AI",startup,5,0,0,,https://matrixx-hiring-signals.netlify.app/companies/yuma-ai/
-"Ziina",startup,5,0,0,,https://matrixx-hiring-signals.netlify.app/companies/ziina/
-"Agave",startup,4,0,1,205000,https://matrixx-hiring-signals.netlify.app/companies/agave/
-"Aleph",startup,4,0,4,197500,https://matrixx-hiring-signals.netlify.app/companies/aleph/
-"Aurelian",startup,4,0,0,162500,https://matrixx-hiring-signals.netlify.app/companies/aurelian/
-"Axle Health",startup,4,0,0,185000,https://matrixx-hiring-signals.netlify.app/companies/axle-health/
-"Casca",startup,4,0,0,211250,https://matrixx-hiring-signals.netlify.app/companies/casca/
-"Cinder",startup,4,0,0,240000,https://matrixx-hiring-signals.netlify.app/companies/cinder/
-"Clarion",startup,4,0,0,181250,https://matrixx-hiring-signals.netlify.app/companies/clarion/
-"Finch",startup,4,0,0,217500,https://matrixx-hiring-signals.netlify.app/companies/finch/
-"Glimpse",startup,4,0,0,198750,https://matrixx-hiring-signals.netlify.app/companies/glimpse/
-"Infisical",startup,4,0,4,,https://matrixx-hiring-signals.netlify.app/companies/infisical/
-"Instawork",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/instawork/
-"Ironclad",startup,4,0,0,243276,https://matrixx-hiring-signals.netlify.app/companies/ironclad/
-"Kastle",startup,4,0,0,256250,https://matrixx-hiring-signals.netlify.app/companies/kastle/
-"Lucis",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/lucis/
-"Mach9",startup,4,0,0,197500,https://matrixx-hiring-signals.netlify.app/companies/mach9/
-"Method Financial",startup,4,0,3,185000,https://matrixx-hiring-signals.netlify.app/companies/method-financial/
-"Middesk",startup,4,0,0,194500,https://matrixx-hiring-signals.netlify.app/companies/middesk/
-"Multiply Labs",startup,4,0,0,243750,https://matrixx-hiring-signals.netlify.app/companies/multiply-labs/
-"N26",enterprise,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/n26/
-"Numeral",startup,4,0,1,237500,https://matrixx-hiring-signals.netlify.app/companies/numeral/
-"Padlet",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/padlet/
-"Peloton",enterprise,4,0,1,179413,https://matrixx-hiring-signals.netlify.app/companies/peloton/
-"Prolific",startup,4,0,4,,https://matrixx-hiring-signals.netlify.app/companies/prolific/
-"Promise",startup,4,0,0,196250,https://matrixx-hiring-signals.netlify.app/companies/promise/
-"Pump.co",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/pump-co/
-"Stream",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/stream/
-"Tamarind Bio",startup,4,0,0,,https://matrixx-hiring-signals.netlify.app/companies/tamarind-bio/
-"Titan",startup,4,0,0,212500,https://matrixx-hiring-signals.netlify.app/companies/titan/
-"Trellis AI",startup,4,0,0,178250,https://matrixx-hiring-signals.netlify.app/companies/trellis-ai/
-"Verse Medical",startup,4,0,0,167500,https://matrixx-hiring-signals.netlify.app/companies/verse-medical/
-"Vitalize",startup,4,0,0,235000,https://matrixx-hiring-signals.netlify.app/companies/vitalize/
-"Vooma",startup,4,0,0,150000,https://matrixx-hiring-signals.netlify.app/companies/vooma/
-"AtoB",startup,3,0,0,170000,https://matrixx-hiring-signals.netlify.app/companies/atob/
-"authzed",startup,3,0,3,171250,https://matrixx-hiring-signals.netlify.app/companies/authzed/
-"Avoca",startup,3,0,0,230000,https://matrixx-hiring-signals.netlify.app/companies/avoca/
-"Axle",startup,3,0,0,187500,https://matrixx-hiring-signals.netlify.app/companies/axle/
-"Bland AI",startup,3,0,0,220000,https://matrixx-hiring-signals.netlify.app/companies/bland-ai/
-"Charge Robotics",startup,3,0,0,187500,https://matrixx-hiring-signals.netlify.app/companies/charge-robotics/
-"ClaimSorted",startup,3,0,0,180000,https://matrixx-hiring-signals.netlify.app/companies/claimsorted/
-"Collectly",startup,3,0,3,125000,https://matrixx-hiring-signals.netlify.app/companies/collectly/
-"Conveo",startup,3,0,0,,https://matrixx-hiring-signals.netlify.app/companies/conveo/
-"Dynamo AI",startup,3,0,2,,https://matrixx-hiring-signals.netlify.app/companies/dynamo-ai/
-"Enode",startup,3,0,3,,https://matrixx-hiring-signals.netlify.app/companies/enode/
-"Eventual",startup,3,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/eventual/
-"Garage",startup,3,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/garage/
-"Humaans",startup,3,0,0,,https://matrixx-hiring-signals.netlify.app/companies/humaans/
-"Inkeep",startup,3,0,0,215000,https://matrixx-hiring-signals.netlify.app/companies/inkeep/
-"Kobalt Labs",startup,3,0,0,250000,https://matrixx-hiring-signals.netlify.app/companies/kobalt-labs/
-"Latent",startup,3,0,1,250000,https://matrixx-hiring-signals.netlify.app/companies/latent/
-"Novig",startup,3,0,0,230000,https://matrixx-hiring-signals.netlify.app/companies/novig/
-"Paces",startup,3,0,0,185000,https://matrixx-hiring-signals.netlify.app/companies/paces/
-"Prelim",startup,3,0,3,220000,https://matrixx-hiring-signals.netlify.app/companies/prelim/
-"Runway",enterprise,3,0,3,217500,https://matrixx-hiring-signals.netlify.app/companies/runway/
-"Serif Health",startup,3,0,3,180000,https://matrixx-hiring-signals.netlify.app/companies/serif-health/
-"Strada",startup,3,0,0,160000,https://matrixx-hiring-signals.netlify.app/companies/strada/
-"telli",startup,3,0,0,,https://matrixx-hiring-signals.netlify.app/companies/telli/
-"Usul",startup,3,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/usul/
-"Within",startup,3,0,0,220500,https://matrixx-hiring-signals.netlify.app/companies/within/
-"Anima",startup,2,0,1,,https://matrixx-hiring-signals.netlify.app/companies/anima/
-"Apollo",startup,2,0,2,207250,https://matrixx-hiring-signals.netlify.app/companies/apollo/
-"Arini",startup,2,0,0,210000,https://matrixx-hiring-signals.netlify.app/companies/arini/
-"Artie",startup,2,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/artie/
-"Bitmovin",startup,2,0,1,,https://matrixx-hiring-signals.netlify.app/companies/bitmovin/
-"Bunkerhill Health",startup,2,0,0,250000,https://matrixx-hiring-signals.netlify.app/companies/bunkerhill-health/
-"Calendly",enterprise,2,0,2,282643,https://matrixx-hiring-signals.netlify.app/companies/calendly/
-"Cambio",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/cambio/
-"Castle",startup,2,0,0,121500,https://matrixx-hiring-signals.netlify.app/companies/castle/
-"ClassDojo",startup,2,0,2,235375,https://matrixx-hiring-signals.netlify.app/companies/classdojo/
-"Community Phone Company",startup,2,0,2,,https://matrixx-hiring-signals.netlify.app/companies/community-phone-company/
-"Concourse",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/concourse/
-"digi",startup,2,0,1,,https://matrixx-hiring-signals.netlify.app/companies/digi/
-"Double",startup,2,0,2,125000,https://matrixx-hiring-signals.netlify.app/companies/double/
-"Ekho",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/ekho/
-"Elyos AI",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/elyos-ai/
-"Escape",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/escape/
-"F2",startup,2,0,0,228750,https://matrixx-hiring-signals.netlify.app/companies/f2/
-"FamPay",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/fampay/
-"FleetWorks",startup,2,0,0,220000,https://matrixx-hiring-signals.netlify.app/companies/fleetworks/
-"FurtherAI",startup,2,0,0,325000,https://matrixx-hiring-signals.netlify.app/companies/furtherai/
-"Great Question",startup,2,0,2,,https://matrixx-hiring-signals.netlify.app/companies/great-question/
-"Greenboard",startup,2,0,0,197500,https://matrixx-hiring-signals.netlify.app/companies/greenboard/
-"Hyperbound",startup,2,0,0,245000,https://matrixx-hiring-signals.netlify.app/companies/hyperbound/
-"Invert",startup,2,0,2,,https://matrixx-hiring-signals.netlify.app/companies/invert/
-"JITX",startup,2,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/jitx/
-"Just Appraised",startup,2,0,2,,https://matrixx-hiring-signals.netlify.app/companies/just-appraised/
-"Kombo",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/kombo/
-"MedMe Health",startup,2,0,2,,https://matrixx-hiring-signals.netlify.app/companies/medme-health/
-"Modern Treasury",startup,2,0,2,198500,https://matrixx-hiring-signals.netlify.app/companies/modern-treasury/
-"Nomic Bio",startup,2,0,1,104000,https://matrixx-hiring-signals.netlify.app/companies/nomic-bio/
-"Nova Credit",startup,2,0,2,218800,https://matrixx-hiring-signals.netlify.app/companies/nova-credit/
-"Oneleet",startup,2,0,2,167500,https://matrixx-hiring-signals.netlify.app/companies/oneleet/
-"OneSignal",startup,2,0,2,210000,https://matrixx-hiring-signals.netlify.app/companies/onesignal/
-"Pinecone",enterprise,2,0,0,203750,https://matrixx-hiring-signals.netlify.app/companies/pinecone/
-"PlanetScale",enterprise,2,0,2,200000,https://matrixx-hiring-signals.netlify.app/companies/planetscale/
-"Prosper",startup,2,0,0,416000,https://matrixx-hiring-signals.netlify.app/companies/prosper/
-"Quicknode",startup,2,0,1,192500,https://matrixx-hiring-signals.netlify.app/companies/quicknode/
-"Qventus",startup,2,0,2,140000,https://matrixx-hiring-signals.netlify.app/companies/qventus/
-"Rally",startup,2,0,2,195000,https://matrixx-hiring-signals.netlify.app/companies/rally/
-"Reality Defender",startup,2,0,2,185000,https://matrixx-hiring-signals.netlify.app/companies/reality-defender/
-"Recall.ai",startup,2,0,0,240000,https://matrixx-hiring-signals.netlify.app/companies/recall-ai/
-"Recidiviz",startup,2,0,2,118025,https://matrixx-hiring-signals.netlify.app/companies/recidiviz/
-"Remi",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/remi/
-"Snappr",startup,2,0,0,80000,https://matrixx-hiring-signals.netlify.app/companies/snappr/
-"SOUNDBOKS",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/soundboks/
-"Spade",startup,2,0,1,185000,https://matrixx-hiring-signals.netlify.app/companies/spade/
-"Swayable",startup,2,0,2,212500,https://matrixx-hiring-signals.netlify.app/companies/swayable/
-"Topline Pro",startup,2,0,0,182500,https://matrixx-hiring-signals.netlify.app/companies/topline-pro/
-"Turion Space",startup,2,0,0,218750,https://matrixx-hiring-signals.netlify.app/companies/turion-space/
-"Vori",startup,2,0,0,,https://matrixx-hiring-signals.netlify.app/companies/vori/
-"Zapier",enterprise,2,0,2,217700,https://matrixx-hiring-signals.netlify.app/companies/zapier/
-"Accord",startup,1,0,0,197500,https://matrixx-hiring-signals.netlify.app/companies/accord/
-"Albedo",startup,1,0,0,173103,https://matrixx-hiring-signals.netlify.app/companies/albedo/
-"Anthrogen",startup,1,0,0,265000,https://matrixx-hiring-signals.netlify.app/companies/anthrogen/
-"Artisan",startup,1,0,0,287500,https://matrixx-hiring-signals.netlify.app/companies/artisan/
-"Atlas",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/atlas/
-"Atomic Industries",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/atomic-industries/
-"Axel Travel",startup,1,0,0,195000,https://matrixx-hiring-signals.netlify.app/companies/axel-travel/
-"Benepass",startup,1,0,1,215000,https://matrixx-hiring-signals.netlify.app/companies/benepass/
-"Blee",startup,1,0,0,212500,https://matrixx-hiring-signals.netlify.app/companies/blee/
-"Blue Onion",startup,1,0,0,252000,https://matrixx-hiring-signals.netlify.app/companies/blue-onion/
-"Cambly",startup,1,0,0,215000,https://matrixx-hiring-signals.netlify.app/companies/cambly/
-"Canary Technologies",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/canary-technologies/
-"CarbonChain",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/carbonchain/
-"Codes Health",startup,1,0,0,230000,https://matrixx-hiring-signals.netlify.app/companies/codes-health/
-"Decoda Health",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/decoda-health/
-"Domu Technology Inc.",startup,1,0,0,215000,https://matrixx-hiring-signals.netlify.app/companies/domu-technology-inc/
-"Duffel",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/duffel/
-"Electric Air",startup,1,0,1,160000,https://matrixx-hiring-signals.netlify.app/companies/electric-air/
-"Ember",startup,1,0,0,160000,https://matrixx-hiring-signals.netlify.app/companies/ember/
-"FINNY AI",startup,1,0,0,190000,https://matrixx-hiring-signals.netlify.app/companies/finny-ai/
-"FlutterFlow",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/flutterflow/
-"Fortuna Health",startup,1,0,0,210000,https://matrixx-hiring-signals.netlify.app/companies/fortuna-health/
-"Fours",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/fours/
-"Freshpaint",startup,1,0,1,132500,https://matrixx-hiring-signals.netlify.app/companies/freshpaint/
-"Gigs",startup,1,0,0,225000,https://matrixx-hiring-signals.netlify.app/companies/gigs/
-"GovEagle",startup,1,0,0,190000,https://matrixx-hiring-signals.netlify.app/companies/goveagle/
-"Healthtech 1",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/healthtech-1/
-"Hive",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/hive/
-"HockeyStack",startup,1,0,0,200000,https://matrixx-hiring-signals.netlify.app/companies/hockeystack/
-"InfluxData",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/influxdata/
-"Inscribe",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/inscribe/
-"Junction",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/junction/
-"Kivo Health",startup,1,0,0,195000,https://matrixx-hiring-signals.netlify.app/companies/kivo-health/
-"Kodex",startup,1,0,1,155000,https://matrixx-hiring-signals.netlify.app/companies/kodex/
-"Laminar",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/laminar/
-"LaunchDarkly",enterprise,1,0,1,227735,https://matrixx-hiring-signals.netlify.app/companies/launchdarkly/
-"Legalist",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/legalist/
-"Letter AI",startup,1,0,0,185000,https://matrixx-hiring-signals.netlify.app/companies/letter-ai/
-"Lightdash",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/lightdash/
-"LineLeap",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/lineleap/
-"Momentic",startup,1,0,0,212500,https://matrixx-hiring-signals.netlify.app/companies/momentic/
-"Mutiny",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/mutiny/
-"Mytos",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/mytos/
-"Notabene",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/notabene/
-"Odeko",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/odeko/
-"OneSchema",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/oneschema/
-"Ophelia",startup,1,0,0,175000,https://matrixx-hiring-signals.netlify.app/companies/ophelia/
-"PermitFlow",startup,1,0,0,275000,https://matrixx-hiring-signals.netlify.app/companies/permitflow/
-"Pirros",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/pirros/
-"Popl",startup,1,0,1,160000,https://matrixx-hiring-signals.netlify.app/companies/popl/
-"PostEra",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/postera/
-"Postscript",startup,1,0,1,197500,https://matrixx-hiring-signals.netlify.app/companies/postscript/
-"RADAR",startup,1,0,0,211000,https://matrixx-hiring-signals.netlify.app/companies/radar/
-"Reflex",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/reflex/
-"Replo",startup,1,0,0,265000,https://matrixx-hiring-signals.netlify.app/companies/replo/
-"Sendbird",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/sendbird/
-"Shadeform",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/shadeform/
-"SnapMagic",startup,1,0,0,207500,https://matrixx-hiring-signals.netlify.app/companies/snapmagic/
-"Spur (Ashby)",startup,1,0,0,210000,https://matrixx-hiring-signals.netlify.app/companies/spur-ashby-2/
-"Trayd",startup,1,0,0,197500,https://matrixx-hiring-signals.netlify.app/companies/trayd/
-"Wonderly",startup,1,0,1,337500,https://matrixx-hiring-signals.netlify.app/companies/wonderly/
-"Xendit",startup,1,0,0,,https://matrixx-hiring-signals.netlify.app/companies/xendit/
-"Zippi",startup,1,0,1,,https://matrixx-hiring-signals.netlify.app/companies/zippi/
+"Celonis",enterprise,104,19,13,170000,https://matrixx-hiring-signals.pages.dev/companies/celonis/
+"Elastic",enterprise,178,18,48,171850,https://matrixx-hiring-signals.pages.dev/companies/elastic/
+"Snowflake",enterprise,166,17,17,248625,https://matrixx-hiring-signals.pages.dev/companies/snowflake/
+"Okta",enterprise,150,17,16,218500,https://matrixx-hiring-signals.pages.dev/companies/okta/
+"MongoDB",enterprise,120,15,11,187000,https://matrixx-hiring-signals.pages.dev/companies/mongodb/
+"Affirm",enterprise,109,14,109,195000,https://matrixx-hiring-signals.pages.dev/companies/affirm/
+"Rocket Lab",enterprise,54,14,0,165000,https://matrixx-hiring-signals.pages.dev/companies/rocket-lab/
+"OpenAI",enterprise,333,13,12,355500,https://matrixx-hiring-signals.pages.dev/companies/openai/
+"Stripe",enterprise,162,13,14,213050,https://matrixx-hiring-signals.pages.dev/companies/stripe/
+"ClickHouse",enterprise,119,10,99,196000,https://matrixx-hiring-signals.pages.dev/companies/clickhouse/
+"Toast",enterprise,61,9,28,251000,https://matrixx-hiring-signals.pages.dev/companies/toast/
+"Contentful",enterprise,16,9,0,132425,https://matrixx-hiring-signals.pages.dev/companies/contentful/
+"Perplexity",enterprise,56,8,4,312500,https://matrixx-hiring-signals.pages.dev/companies/perplexity/
+"Coinbase",enterprise,98,7,98,202483,https://matrixx-hiring-signals.pages.dev/companies/coinbase/
+"Harvey",enterprise,87,7,5,285500,https://matrixx-hiring-signals.pages.dev/companies/harvey/
+"Brex",enterprise,60,7,57,262500,https://matrixx-hiring-signals.pages.dev/companies/brex/
+"GitLab",enterprise,64,6,52,196000,https://matrixx-hiring-signals.pages.dev/companies/gitlab/
+"Plaid",enterprise,44,6,1,226800,https://matrixx-hiring-signals.pages.dev/companies/plaid/
+"Zip",startup,10,6,0,202500,https://matrixx-hiring-signals.pages.dev/companies/zip/
+"Databricks",enterprise,302,5,83,216104,https://matrixx-hiring-signals.pages.dev/companies/databricks/
+"Anthropic",enterprise,209,5,11,402500,https://matrixx-hiring-signals.pages.dev/companies/anthropic/
+"Cloudflare",enterprise,131,5,8,230000,https://matrixx-hiring-signals.pages.dev/companies/cloudflare/
+"Samsara",enterprise,57,5,56,207350,https://matrixx-hiring-signals.pages.dev/companies/samsara/
+"Ramp",enterprise,35,5,4,251000,https://matrixx-hiring-signals.pages.dev/companies/ramp/
+"Netskope",enterprise,34,5,0,175750,https://matrixx-hiring-signals.pages.dev/companies/netskope/
+"Athelas",startup,32,5,3,200000,https://matrixx-hiring-signals.pages.dev/companies/athelas/
+"Rubrik",enterprise,27,5,2,197500,https://matrixx-hiring-signals.pages.dev/companies/rubrik/
+"Flexport",enterprise,26,5,9,,https://matrixx-hiring-signals.pages.dev/companies/flexport/
+"Dropbox",enterprise,20,5,20,227700,https://matrixx-hiring-signals.pages.dev/companies/dropbox/
+"Nuro",enterprise,65,4,1,242540,https://matrixx-hiring-signals.pages.dev/companies/nuro/
+"Fivetran",enterprise,61,4,18,210039,https://matrixx-hiring-signals.pages.dev/companies/fivetran/
+"Grafana Labs",enterprise,52,4,52,192485,https://matrixx-hiring-signals.pages.dev/companies/grafana-labs/
+"Airbnb",enterprise,51,4,49,238500,https://matrixx-hiring-signals.pages.dev/companies/airbnb/
+"Overview",startup,33,4,4,,https://matrixx-hiring-signals.pages.dev/companies/overview/
+"Lyft",enterprise,32,4,1,166500,https://matrixx-hiring-signals.pages.dev/companies/lyft/
+"ElevenLabs",enterprise,30,4,30,,https://matrixx-hiring-signals.pages.dev/companies/elevenlabs/
+"Encord",startup,16,4,0,205000,https://matrixx-hiring-signals.pages.dev/companies/encord/
+"Airbyte",enterprise,5,4,0,215500,https://matrixx-hiring-signals.pages.dev/companies/airbyte/
+"Applied Intuition",enterprise,140,3,0,200000,https://matrixx-hiring-signals.pages.dev/companies/applied-intuition/
+"Waymo",enterprise,105,3,3,238000,https://matrixx-hiring-signals.pages.dev/companies/waymo/
+"Reddit",enterprise,80,3,80,260050,https://matrixx-hiring-signals.pages.dev/companies/reddit/
+"Robinhood",enterprise,59,3,0,257920,https://matrixx-hiring-signals.pages.dev/companies/robinhood/
+"Legora",startup,52,3,0,264000,https://matrixx-hiring-signals.pages.dev/companies/legora/
+"Supabase",enterprise,36,3,36,,https://matrixx-hiring-signals.pages.dev/companies/supabase/
+"Temporal",enterprise,35,3,34,185900,https://matrixx-hiring-signals.pages.dev/companies/temporal/
+"Twilio",enterprise,30,3,30,156231,https://matrixx-hiring-signals.pages.dev/companies/twilio/
+"Chime",enterprise,28,3,0,195500,https://matrixx-hiring-signals.pages.dev/companies/chime/
+"HappyRobot",startup,20,3,3,195000,https://matrixx-hiring-signals.pages.dev/companies/happyrobot/
+"Tailscale",enterprise,19,3,19,194500,https://matrixx-hiring-signals.pages.dev/companies/tailscale/
+"Instacart",enterprise,18,3,17,212750,https://matrixx-hiring-signals.pages.dev/companies/instacart/
+"Hex",enterprise,13,3,7,249500,https://matrixx-hiring-signals.pages.dev/companies/hex/
+"ARQ",startup,12,3,0,,https://matrixx-hiring-signals.pages.dev/companies/arq/
+"Benchling",enterprise,9,3,0,180000,https://matrixx-hiring-signals.pages.dev/companies/benchling/
+"Verkada",enterprise,70,2,0,225000,https://matrixx-hiring-signals.pages.dev/companies/verkada/
+"Asana",enterprise,37,2,0,323500,https://matrixx-hiring-signals.pages.dev/companies/asana/
+"Cohere",enterprise,35,2,19,255000,https://matrixx-hiring-signals.pages.dev/companies/cohere/
+"Klaviyo",enterprise,35,2,2,185000,https://matrixx-hiring-signals.pages.dev/companies/klaviyo/
+"Datadog",enterprise,33,2,12,216000,https://matrixx-hiring-signals.pages.dev/companies/datadog/
+"Relativity Space",enterprise,33,2,2,163000,https://matrixx-hiring-signals.pages.dev/companies/relativity-space/
+"Alpaca",startup,32,2,32,,https://matrixx-hiring-signals.pages.dev/companies/alpaca/
+"Sentry",enterprise,27,2,0,301250,https://matrixx-hiring-signals.pages.dev/companies/sentry/
+"Oscar Health",enterprise,21,2,3,208708,https://matrixx-hiring-signals.pages.dev/companies/oscar-health/
+"Hims & Hers",enterprise,19,2,14,217500,https://matrixx-hiring-signals.pages.dev/companies/hims-and-hers/
+"Replit",enterprise,18,2,0,287500,https://matrixx-hiring-signals.pages.dev/companies/replit/
+"voize",startup,12,2,6,,https://matrixx-hiring-signals.pages.dev/companies/voize/
+"Adaptyv",startup,11,2,0,,https://matrixx-hiring-signals.pages.dev/companies/adaptyv/
+"AiPrise",startup,11,2,0,207500,https://matrixx-hiring-signals.pages.dev/companies/aiprise/
+"Discord",enterprise,10,2,6,263250,https://matrixx-hiring-signals.pages.dev/companies/discord/
+"Squarespace",enterprise,9,2,1,238375,https://matrixx-hiring-signals.pages.dev/companies/squarespace/
+"Patreon",enterprise,8,2,2,287000,https://matrixx-hiring-signals.pages.dev/companies/patreon/
+"Poshmark",enterprise,8,2,0,175000,https://matrixx-hiring-signals.pages.dev/companies/poshmark/
+"Retell AI",startup,7,2,0,250000,https://matrixx-hiring-signals.pages.dev/companies/retell-ai/
+"Snyk",enterprise,7,2,0,216000,https://matrixx-hiring-signals.pages.dev/companies/snyk/
+"Curri",startup,6,2,6,200000,https://matrixx-hiring-signals.pages.dev/companies/curri/
+"Lattice",enterprise,4,2,4,211000,https://matrixx-hiring-signals.pages.dev/companies/lattice/
+"Palantir",enterprise,147,1,0,167500,https://matrixx-hiring-signals.pages.dev/companies/palantir/
+"Rippling",enterprise,126,1,2,,https://matrixx-hiring-signals.pages.dev/companies/rippling/
+"Scale AI",enterprise,67,1,3,243225,https://matrixx-hiring-signals.pages.dev/companies/scale-ai/
+"Pinterest",enterprise,58,1,33,270990,https://matrixx-hiring-signals.pages.dev/companies/pinterest/
+"Spur (Ashby)",startup,45,1,8,187500,https://matrixx-hiring-signals.pages.dev/companies/spur-ashby/
+"Gusto",enterprise,26,1,0,191500,https://matrixx-hiring-signals.pages.dev/companies/gusto/
+"May Mobility",startup,17,1,8,165000,https://matrixx-hiring-signals.pages.dev/companies/may-mobility/
+"Cursor",enterprise,16,1,3,277500,https://matrixx-hiring-signals.pages.dev/companies/cursor/
+"Faire",enterprise,15,1,15,274500,https://matrixx-hiring-signals.pages.dev/companies/faire/
+"Taktile",startup,15,1,0,242500,https://matrixx-hiring-signals.pages.dev/companies/taktile/
+"Deepgram",startup,14,1,10,227750,https://matrixx-hiring-signals.pages.dev/companies/deepgram/
+"Eight Sleep",startup,12,1,3,195000,https://matrixx-hiring-signals.pages.dev/companies/eight-sleep/
+"LiteLLM",startup,11,1,1,230000,https://matrixx-hiring-signals.pages.dev/companies/litellm/
+"Strava",enterprise,11,1,0,222000,https://matrixx-hiring-signals.pages.dev/companies/strava/
+"Webflow",enterprise,10,1,10,247375,https://matrixx-hiring-signals.pages.dev/companies/webflow/
+"Gecko Robotics",startup,9,1,0,209000,https://matrixx-hiring-signals.pages.dev/companies/gecko-robotics/
+"Quindar",startup,9,1,0,165000,https://matrixx-hiring-signals.pages.dev/companies/quindar/
+"Attentive",enterprise,8,1,0,241500,https://matrixx-hiring-signals.pages.dev/companies/attentive/
+"StockX",enterprise,8,1,1,187500,https://matrixx-hiring-signals.pages.dev/companies/stockx/
+"Checkr",startup,7,1,7,201500,https://matrixx-hiring-signals.pages.dev/companies/checkr/
+"Tennr",startup,6,1,0,177500,https://matrixx-hiring-signals.pages.dev/companies/tennr/
+"Human Interest",startup,4,1,4,210000,https://matrixx-hiring-signals.pages.dev/companies/human-interest/
+"Outreach",enterprise,4,1,3,145000,https://matrixx-hiring-signals.pages.dev/companies/outreach/
+"Ello",startup,3,1,0,197500,https://matrixx-hiring-signals.pages.dev/companies/ello/
+"Harper",startup,3,1,0,210000,https://matrixx-hiring-signals.pages.dev/companies/harper/
+"PostHog",startup,3,1,2,,https://matrixx-hiring-signals.pages.dev/companies/posthog/
+"Sully",startup,3,1,0,,https://matrixx-hiring-signals.pages.dev/companies/sully/
+"Alex",startup,2,1,0,150000,https://matrixx-hiring-signals.pages.dev/companies/alex/
+"bunq",enterprise,2,1,0,,https://matrixx-hiring-signals.pages.dev/companies/bunq/
+"Cockroach Labs",enterprise,2,1,2,153775,https://matrixx-hiring-signals.pages.dev/companies/cockroach-labs/
+"Handoff",startup,2,1,0,,https://matrixx-hiring-signals.pages.dev/companies/handoff/
+"Sieve",startup,2,1,0,218750,https://matrixx-hiring-signals.pages.dev/companies/sieve/
+"Beyond Reach Labs",startup,1,1,0,110000,https://matrixx-hiring-signals.pages.dev/companies/beyond-reach-labs/
+"GovDash",startup,1,1,0,180000,https://matrixx-hiring-signals.pages.dev/companies/govdash/
+"Tovala",startup,1,1,0,175000,https://matrixx-hiring-signals.pages.dev/companies/tovala/
+"Weaviate",enterprise,1,1,1,,https://matrixx-hiring-signals.pages.dev/companies/weaviate/
+"Together AI",enterprise,35,0,6,245000,https://matrixx-hiring-signals.pages.dev/companies/together-ai/
+"Vector (Greenhouse)",startup,31,0,5,222500,https://matrixx-hiring-signals.pages.dev/companies/vector-greenhouse/
+"Notion",enterprise,28,0,0,207500,https://matrixx-hiring-signals.pages.dev/companies/notion/
+"Spotify",enterprise,27,0,14,276244,https://matrixx-hiring-signals.pages.dev/companies/spotify/
+"Vercel",enterprise,27,0,1,245000,https://matrixx-hiring-signals.pages.dev/companies/vercel/
+"Tailor",startup,26,0,3,150000,https://matrixx-hiring-signals.pages.dev/companies/tailor/
+"Figma",enterprise,25,0,2,264500,https://matrixx-hiring-signals.pages.dev/companies/figma/
+"Vanta",enterprise,23,0,23,233250,https://matrixx-hiring-signals.pages.dev/companies/vanta/
+"Abnormal Security",enterprise,22,0,11,181850,https://matrixx-hiring-signals.pages.dev/companies/abnormal-security/
+"Astranis",startup,21,0,0,172500,https://matrixx-hiring-signals.pages.dev/companies/astranis/
+"Mercury",enterprise,19,0,19,217275,https://matrixx-hiring-signals.pages.dev/companies/mercury/
+"HUD",startup,18,0,0,165000,https://matrixx-hiring-signals.pages.dev/companies/hud/
+"Ro",enterprise,17,0,0,212650,https://matrixx-hiring-signals.pages.dev/companies/ro/
+"Duolingo",enterprise,15,0,0,255000,https://matrixx-hiring-signals.pages.dev/companies/duolingo/
+"Retool",enterprise,15,0,0,234900,https://matrixx-hiring-signals.pages.dev/companies/retool/
+"Array Labs",startup,14,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/array-labs/
+"Monzo",enterprise,14,0,9,,https://matrixx-hiring-signals.pages.dev/companies/monzo/
+"Nourish",startup,14,0,6,,https://matrixx-hiring-signals.pages.dev/companies/nourish/
+"Confido",startup,13,0,0,240000,https://matrixx-hiring-signals.pages.dev/companies/confido/
+"Giga",startup,13,0,0,277500,https://matrixx-hiring-signals.pages.dev/companies/giga/
+"Modal",enterprise,13,0,0,213750,https://matrixx-hiring-signals.pages.dev/companies/modal/
+"Amplitude",enterprise,12,0,2,229500,https://matrixx-hiring-signals.pages.dev/companies/amplitude/
+"Fieldguide",startup,12,0,6,223750,https://matrixx-hiring-signals.pages.dev/companies/fieldguide/
+"Roboflow",startup,12,0,11,180000,https://matrixx-hiring-signals.pages.dev/companies/roboflow/
+"Podium",startup,11,0,7,,https://matrixx-hiring-signals.pages.dev/companies/podium/
+"Reducto",startup,11,0,0,250000,https://matrixx-hiring-signals.pages.dev/companies/reducto/
+"Candid Health",startup,10,0,0,199500,https://matrixx-hiring-signals.pages.dev/companies/candid-health/
+"Gemini",enterprise,10,0,6,170000,https://matrixx-hiring-signals.pages.dev/companies/gemini/
+"Kalshi",startup,10,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/kalshi/
+"Linear",enterprise,10,0,10,235250,https://matrixx-hiring-signals.pages.dev/companies/linear/
+"Vector (Greenhouse)",startup,10,0,0,210250,https://matrixx-hiring-signals.pages.dev/companies/vector-greenhouse-2/
+"CircuitHub",startup,9,0,7,140000,https://matrixx-hiring-signals.pages.dev/companies/circuithub/
+"Drata",enterprise,9,0,0,204750,https://matrixx-hiring-signals.pages.dev/companies/drata/
+"AfterQuery",startup,8,0,0,275000,https://matrixx-hiring-signals.pages.dev/companies/afterquery/
+"Algolia",startup,8,0,8,,https://matrixx-hiring-signals.pages.dev/companies/algolia/
+"Luminai",startup,8,0,0,220000,https://matrixx-hiring-signals.pages.dev/companies/luminai/
+"Rootly",startup,8,0,0,,https://matrixx-hiring-signals.pages.dev/companies/rootly/
+"Shepherd",startup,8,0,0,285000,https://matrixx-hiring-signals.pages.dev/companies/shepherd/
+"Weave",startup,8,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/weave/
+"AssemblyAI",startup,7,0,7,187500,https://matrixx-hiring-signals.pages.dev/companies/assemblyai/
+"Astro Mechanica",startup,7,0,0,187500,https://matrixx-hiring-signals.pages.dev/companies/astro-mechanica/
+"Broccoli AI",startup,7,0,0,247500,https://matrixx-hiring-signals.pages.dev/companies/broccoli-ai/
+"Campfire",startup,7,0,0,215000,https://matrixx-hiring-signals.pages.dev/companies/campfire/
+"Metriport",startup,7,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/metriport/
+"PagerDuty",enterprise,7,0,1,240150,https://matrixx-hiring-signals.pages.dev/companies/pagerduty/
+"Pave",startup,7,0,0,395200,https://matrixx-hiring-signals.pages.dev/companies/pave/
+"Vector (Ashby)",startup,7,0,1,205000,https://matrixx-hiring-signals.pages.dev/companies/vector-ashby/
+"Vetcove",startup,7,0,7,170000,https://matrixx-hiring-signals.pages.dev/companies/vetcove/
+"Adalat AI",startup,6,0,0,,https://matrixx-hiring-signals.pages.dev/companies/adalat-ai/
+"Blissway",startup,6,0,0,162500,https://matrixx-hiring-signals.pages.dev/companies/blissway/
+"Carta",enterprise,6,0,0,520000,https://matrixx-hiring-signals.pages.dev/companies/carta/
+"Gridware",startup,6,0,0,228750,https://matrixx-hiring-signals.pages.dev/companies/gridware/
+"Human Archive",startup,6,0,0,150000,https://matrixx-hiring-signals.pages.dev/companies/human-archive/
+"Icarus",startup,6,0,0,125000,https://matrixx-hiring-signals.pages.dev/companies/icarus/
+"Juicebox",startup,6,0,0,251250,https://matrixx-hiring-signals.pages.dev/companies/juicebox/
+"Mashgin",startup,6,0,2,196250,https://matrixx-hiring-signals.pages.dev/companies/mashgin/
+"Nextdoor",enterprise,6,0,5,207500,https://matrixx-hiring-signals.pages.dev/companies/nextdoor/
+"Nox Metals",startup,6,0,0,154750,https://matrixx-hiring-signals.pages.dev/companies/nox-metals/
+"PointOne",startup,6,0,0,183750,https://matrixx-hiring-signals.pages.dev/companies/pointone/
+"Pulse",startup,6,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/pulse/
+"SalesPatriot",startup,6,0,0,130000,https://matrixx-hiring-signals.pages.dev/companies/salespatriot/
+"SigNoz",startup,6,0,5,185000,https://matrixx-hiring-signals.pages.dev/companies/signoz/
+"Skyways",startup,6,0,0,167500,https://matrixx-hiring-signals.pages.dev/companies/skyways/
+"Speak",startup,6,0,0,227500,https://matrixx-hiring-signals.pages.dev/companies/speak/
+"Spellbrush",startup,6,0,1,,https://matrixx-hiring-signals.pages.dev/companies/spellbrush/
+"SpruceID",startup,6,0,6,161250,https://matrixx-hiring-signals.pages.dev/companies/spruceid/
+"Wordware",startup,6,0,0,210000,https://matrixx-hiring-signals.pages.dev/companies/wordware/
+"9 Mothers",startup,5,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/9-mothers/
+"Ambient.ai",startup,5,0,0,186500,https://matrixx-hiring-signals.pages.dev/companies/ambient-ai/
+"Auctor",startup,5,0,0,232500,https://matrixx-hiring-signals.pages.dev/companies/auctor/
+"BioRender",startup,5,0,5,,https://matrixx-hiring-signals.pages.dev/companies/biorender/
+"Camber",startup,5,0,0,205000,https://matrixx-hiring-signals.pages.dev/companies/camber/
+"CaptivateIQ",startup,5,0,5,227619,https://matrixx-hiring-signals.pages.dev/companies/captivateiq/
+"GiveCampus",startup,5,0,5,,https://matrixx-hiring-signals.pages.dev/companies/givecampus/
+"Greptile",startup,5,0,0,262500,https://matrixx-hiring-signals.pages.dev/companies/greptile/
+"Hugging Face",enterprise,5,0,5,,https://matrixx-hiring-signals.pages.dev/companies/hugging-face/
+"Mercura",startup,5,0,0,,https://matrixx-hiring-signals.pages.dev/companies/mercura/
+"Meticulous",startup,5,0,0,300000,https://matrixx-hiring-signals.pages.dev/companies/meticulous/
+"Mixpanel",enterprise,5,0,2,256250,https://matrixx-hiring-signals.pages.dev/companies/mixpanel/
+"Nash",startup,5,0,3,,https://matrixx-hiring-signals.pages.dev/companies/nash/
+"Outset",startup,5,0,0,230000,https://matrixx-hiring-signals.pages.dev/companies/outset/
+"Prodigal",startup,5,0,0,,https://matrixx-hiring-signals.pages.dev/companies/prodigal/
+"Pylon",startup,5,0,0,230000,https://matrixx-hiring-signals.pages.dev/companies/pylon/
+"Rescale",startup,5,0,5,137000,https://matrixx-hiring-signals.pages.dev/companies/rescale/
+"Salient",startup,5,0,0,250000,https://matrixx-hiring-signals.pages.dev/companies/salient/
+"Santé",startup,5,0,0,255000,https://matrixx-hiring-signals.pages.dev/companies/sante/
+"Slash",startup,5,0,0,300000,https://matrixx-hiring-signals.pages.dev/companies/slash/
+"Tavus",startup,5,0,1,205000,https://matrixx-hiring-signals.pages.dev/companies/tavus/
+"Triomics",startup,5,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/triomics/
+"Y Combinator",startup,5,0,0,375000,https://matrixx-hiring-signals.pages.dev/companies/y-combinator/
+"Yuma AI",startup,5,0,0,,https://matrixx-hiring-signals.pages.dev/companies/yuma-ai/
+"Ziina",startup,5,0,0,,https://matrixx-hiring-signals.pages.dev/companies/ziina/
+"Agave",startup,4,0,1,205000,https://matrixx-hiring-signals.pages.dev/companies/agave/
+"Aleph",startup,4,0,4,197500,https://matrixx-hiring-signals.pages.dev/companies/aleph/
+"Aurelian",startup,4,0,0,162500,https://matrixx-hiring-signals.pages.dev/companies/aurelian/
+"Axle Health",startup,4,0,0,185000,https://matrixx-hiring-signals.pages.dev/companies/axle-health/
+"Casca",startup,4,0,0,211250,https://matrixx-hiring-signals.pages.dev/companies/casca/
+"Cinder",startup,4,0,0,240000,https://matrixx-hiring-signals.pages.dev/companies/cinder/
+"Clarion",startup,4,0,0,181250,https://matrixx-hiring-signals.pages.dev/companies/clarion/
+"Finch",startup,4,0,0,217500,https://matrixx-hiring-signals.pages.dev/companies/finch/
+"Glimpse",startup,4,0,0,198750,https://matrixx-hiring-signals.pages.dev/companies/glimpse/
+"Infisical",startup,4,0,4,,https://matrixx-hiring-signals.pages.dev/companies/infisical/
+"Instawork",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/instawork/
+"Ironclad",startup,4,0,0,243276,https://matrixx-hiring-signals.pages.dev/companies/ironclad/
+"Kastle",startup,4,0,0,256250,https://matrixx-hiring-signals.pages.dev/companies/kastle/
+"Lucis",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/lucis/
+"Mach9",startup,4,0,0,197500,https://matrixx-hiring-signals.pages.dev/companies/mach9/
+"Method Financial",startup,4,0,3,185000,https://matrixx-hiring-signals.pages.dev/companies/method-financial/
+"Middesk",startup,4,0,0,194500,https://matrixx-hiring-signals.pages.dev/companies/middesk/
+"Multiply Labs",startup,4,0,0,243750,https://matrixx-hiring-signals.pages.dev/companies/multiply-labs/
+"N26",enterprise,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/n26/
+"Numeral",startup,4,0,1,237500,https://matrixx-hiring-signals.pages.dev/companies/numeral/
+"Padlet",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/padlet/
+"Peloton",enterprise,4,0,1,179413,https://matrixx-hiring-signals.pages.dev/companies/peloton/
+"Prolific",startup,4,0,4,,https://matrixx-hiring-signals.pages.dev/companies/prolific/
+"Promise",startup,4,0,0,196250,https://matrixx-hiring-signals.pages.dev/companies/promise/
+"Pump.co",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/pump-co/
+"Stream",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/stream/
+"Tamarind Bio",startup,4,0,0,,https://matrixx-hiring-signals.pages.dev/companies/tamarind-bio/
+"Titan",startup,4,0,0,212500,https://matrixx-hiring-signals.pages.dev/companies/titan/
+"Trellis AI",startup,4,0,0,178250,https://matrixx-hiring-signals.pages.dev/companies/trellis-ai/
+"Verse Medical",startup,4,0,0,167500,https://matrixx-hiring-signals.pages.dev/companies/verse-medical/
+"Vitalize",startup,4,0,0,235000,https://matrixx-hiring-signals.pages.dev/companies/vitalize/
+"Vooma",startup,4,0,0,150000,https://matrixx-hiring-signals.pages.dev/companies/vooma/
+"AtoB",startup,3,0,0,170000,https://matrixx-hiring-signals.pages.dev/companies/atob/
+"authzed",startup,3,0,3,171250,https://matrixx-hiring-signals.pages.dev/companies/authzed/
+"Avoca",startup,3,0,0,230000,https://matrixx-hiring-signals.pages.dev/companies/avoca/
+"Axle",startup,3,0,0,187500,https://matrixx-hiring-signals.pages.dev/companies/axle/
+"Bland AI",startup,3,0,0,220000,https://matrixx-hiring-signals.pages.dev/companies/bland-ai/
+"Charge Robotics",startup,3,0,0,187500,https://matrixx-hiring-signals.pages.dev/companies/charge-robotics/
+"ClaimSorted",startup,3,0,0,180000,https://matrixx-hiring-signals.pages.dev/companies/claimsorted/
+"Collectly",startup,3,0,3,125000,https://matrixx-hiring-signals.pages.dev/companies/collectly/
+"Conveo",startup,3,0,0,,https://matrixx-hiring-signals.pages.dev/companies/conveo/
+"Dynamo AI",startup,3,0,2,,https://matrixx-hiring-signals.pages.dev/companies/dynamo-ai/
+"Enode",startup,3,0,3,,https://matrixx-hiring-signals.pages.dev/companies/enode/
+"Eventual",startup,3,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/eventual/
+"Garage",startup,3,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/garage/
+"Humaans",startup,3,0,0,,https://matrixx-hiring-signals.pages.dev/companies/humaans/
+"Inkeep",startup,3,0,0,215000,https://matrixx-hiring-signals.pages.dev/companies/inkeep/
+"Kobalt Labs",startup,3,0,0,250000,https://matrixx-hiring-signals.pages.dev/companies/kobalt-labs/
+"Latent",startup,3,0,1,250000,https://matrixx-hiring-signals.pages.dev/companies/latent/
+"Novig",startup,3,0,0,230000,https://matrixx-hiring-signals.pages.dev/companies/novig/
+"Paces",startup,3,0,0,185000,https://matrixx-hiring-signals.pages.dev/companies/paces/
+"Prelim",startup,3,0,3,220000,https://matrixx-hiring-signals.pages.dev/companies/prelim/
+"Runway",enterprise,3,0,3,217500,https://matrixx-hiring-signals.pages.dev/companies/runway/
+"Serif Health",startup,3,0,3,180000,https://matrixx-hiring-signals.pages.dev/companies/serif-health/
+"Strada",startup,3,0,0,160000,https://matrixx-hiring-signals.pages.dev/companies/strada/
+"telli",startup,3,0,0,,https://matrixx-hiring-signals.pages.dev/companies/telli/
+"Usul",startup,3,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/usul/
+"Within",startup,3,0,0,220500,https://matrixx-hiring-signals.pages.dev/companies/within/
+"Anima",startup,2,0,1,,https://matrixx-hiring-signals.pages.dev/companies/anima/
+"Apollo",startup,2,0,2,207250,https://matrixx-hiring-signals.pages.dev/companies/apollo/
+"Arini",startup,2,0,0,210000,https://matrixx-hiring-signals.pages.dev/companies/arini/
+"Artie",startup,2,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/artie/
+"Bitmovin",startup,2,0,1,,https://matrixx-hiring-signals.pages.dev/companies/bitmovin/
+"Bunkerhill Health",startup,2,0,0,250000,https://matrixx-hiring-signals.pages.dev/companies/bunkerhill-health/
+"Calendly",enterprise,2,0,2,282643,https://matrixx-hiring-signals.pages.dev/companies/calendly/
+"Cambio",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/cambio/
+"Castle",startup,2,0,0,121500,https://matrixx-hiring-signals.pages.dev/companies/castle/
+"ClassDojo",startup,2,0,2,235375,https://matrixx-hiring-signals.pages.dev/companies/classdojo/
+"Community Phone Company",startup,2,0,2,,https://matrixx-hiring-signals.pages.dev/companies/community-phone-company/
+"Concourse",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/concourse/
+"digi",startup,2,0,1,,https://matrixx-hiring-signals.pages.dev/companies/digi/
+"Double",startup,2,0,2,125000,https://matrixx-hiring-signals.pages.dev/companies/double/
+"Ekho",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/ekho/
+"Elyos AI",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/elyos-ai/
+"Escape",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/escape/
+"F2",startup,2,0,0,228750,https://matrixx-hiring-signals.pages.dev/companies/f2/
+"FamPay",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/fampay/
+"FleetWorks",startup,2,0,0,220000,https://matrixx-hiring-signals.pages.dev/companies/fleetworks/
+"FurtherAI",startup,2,0,0,325000,https://matrixx-hiring-signals.pages.dev/companies/furtherai/
+"Great Question",startup,2,0,2,,https://matrixx-hiring-signals.pages.dev/companies/great-question/
+"Greenboard",startup,2,0,0,197500,https://matrixx-hiring-signals.pages.dev/companies/greenboard/
+"Hyperbound",startup,2,0,0,245000,https://matrixx-hiring-signals.pages.dev/companies/hyperbound/
+"Invert",startup,2,0,2,,https://matrixx-hiring-signals.pages.dev/companies/invert/
+"JITX",startup,2,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/jitx/
+"Just Appraised",startup,2,0,2,,https://matrixx-hiring-signals.pages.dev/companies/just-appraised/
+"Kombo",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/kombo/
+"MedMe Health",startup,2,0,2,,https://matrixx-hiring-signals.pages.dev/companies/medme-health/
+"Modern Treasury",startup,2,0,2,198500,https://matrixx-hiring-signals.pages.dev/companies/modern-treasury/
+"Nomic Bio",startup,2,0,1,104000,https://matrixx-hiring-signals.pages.dev/companies/nomic-bio/
+"Nova Credit",startup,2,0,2,218800,https://matrixx-hiring-signals.pages.dev/companies/nova-credit/
+"Oneleet",startup,2,0,2,167500,https://matrixx-hiring-signals.pages.dev/companies/oneleet/
+"OneSignal",startup,2,0,2,210000,https://matrixx-hiring-signals.pages.dev/companies/onesignal/
+"Pinecone",enterprise,2,0,0,203750,https://matrixx-hiring-signals.pages.dev/companies/pinecone/
+"PlanetScale",enterprise,2,0,2,200000,https://matrixx-hiring-signals.pages.dev/companies/planetscale/
+"Prosper",startup,2,0,0,416000,https://matrixx-hiring-signals.pages.dev/companies/prosper/
+"Quicknode",startup,2,0,1,192500,https://matrixx-hiring-signals.pages.dev/companies/quicknode/
+"Qventus",startup,2,0,2,140000,https://matrixx-hiring-signals.pages.dev/companies/qventus/
+"Rally",startup,2,0,2,195000,https://matrixx-hiring-signals.pages.dev/companies/rally/
+"Reality Defender",startup,2,0,2,185000,https://matrixx-hiring-signals.pages.dev/companies/reality-defender/
+"Recall.ai",startup,2,0,0,240000,https://matrixx-hiring-signals.pages.dev/companies/recall-ai/
+"Recidiviz",startup,2,0,2,118025,https://matrixx-hiring-signals.pages.dev/companies/recidiviz/
+"Remi",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/remi/
+"Snappr",startup,2,0,0,80000,https://matrixx-hiring-signals.pages.dev/companies/snappr/
+"SOUNDBOKS",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/soundboks/
+"Spade",startup,2,0,1,185000,https://matrixx-hiring-signals.pages.dev/companies/spade/
+"Swayable",startup,2,0,2,212500,https://matrixx-hiring-signals.pages.dev/companies/swayable/
+"Topline Pro",startup,2,0,0,182500,https://matrixx-hiring-signals.pages.dev/companies/topline-pro/
+"Turion Space",startup,2,0,0,218750,https://matrixx-hiring-signals.pages.dev/companies/turion-space/
+"Vori",startup,2,0,0,,https://matrixx-hiring-signals.pages.dev/companies/vori/
+"Zapier",enterprise,2,0,2,217700,https://matrixx-hiring-signals.pages.dev/companies/zapier/
+"Accord",startup,1,0,0,197500,https://matrixx-hiring-signals.pages.dev/companies/accord/
+"Albedo",startup,1,0,0,173103,https://matrixx-hiring-signals.pages.dev/companies/albedo/
+"Anthrogen",startup,1,0,0,265000,https://matrixx-hiring-signals.pages.dev/companies/anthrogen/
+"Artisan",startup,1,0,0,287500,https://matrixx-hiring-signals.pages.dev/companies/artisan/
+"Atlas",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/atlas/
+"Atomic Industries",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/atomic-industries/
+"Axel Travel",startup,1,0,0,195000,https://matrixx-hiring-signals.pages.dev/companies/axel-travel/
+"Benepass",startup,1,0,1,215000,https://matrixx-hiring-signals.pages.dev/companies/benepass/
+"Blee",startup,1,0,0,212500,https://matrixx-hiring-signals.pages.dev/companies/blee/
+"Blue Onion",startup,1,0,0,252000,https://matrixx-hiring-signals.pages.dev/companies/blue-onion/
+"Cambly",startup,1,0,0,215000,https://matrixx-hiring-signals.pages.dev/companies/cambly/
+"Canary Technologies",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/canary-technologies/
+"CarbonChain",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/carbonchain/
+"Codes Health",startup,1,0,0,230000,https://matrixx-hiring-signals.pages.dev/companies/codes-health/
+"CoinTracker",startup,1,0,1,174013,https://matrixx-hiring-signals.pages.dev/companies/cointracker/
+"Decoda Health",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/decoda-health/
+"Domu Technology Inc.",startup,1,0,0,215000,https://matrixx-hiring-signals.pages.dev/companies/domu-technology-inc/
+"Duffel",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/duffel/
+"Electric Air",startup,1,0,1,160000,https://matrixx-hiring-signals.pages.dev/companies/electric-air/
+"Ember",startup,1,0,0,160000,https://matrixx-hiring-signals.pages.dev/companies/ember/
+"FINNY AI",startup,1,0,0,190000,https://matrixx-hiring-signals.pages.dev/companies/finny-ai/
+"FlutterFlow",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/flutterflow/
+"Fortuna Health",startup,1,0,0,210000,https://matrixx-hiring-signals.pages.dev/companies/fortuna-health/
+"Fours",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/fours/
+"Freshpaint",startup,1,0,1,132500,https://matrixx-hiring-signals.pages.dev/companies/freshpaint/
+"Gigs",startup,1,0,0,225000,https://matrixx-hiring-signals.pages.dev/companies/gigs/
+"GovEagle",startup,1,0,0,190000,https://matrixx-hiring-signals.pages.dev/companies/goveagle/
+"Healthtech 1",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/healthtech-1/
+"Hive",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/hive/
+"HockeyStack",startup,1,0,0,200000,https://matrixx-hiring-signals.pages.dev/companies/hockeystack/
+"InfluxData",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/influxdata/
+"Inscribe",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/inscribe/
+"Junction",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/junction/
+"Kivo Health",startup,1,0,0,195000,https://matrixx-hiring-signals.pages.dev/companies/kivo-health/
+"Kodex",startup,1,0,1,155000,https://matrixx-hiring-signals.pages.dev/companies/kodex/
+"Laminar",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/laminar/
+"LaunchDarkly",enterprise,1,0,1,227735,https://matrixx-hiring-signals.pages.dev/companies/launchdarkly/
+"Legalist",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/legalist/
+"Letter AI",startup,1,0,0,185000,https://matrixx-hiring-signals.pages.dev/companies/letter-ai/
+"Lightdash",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/lightdash/
+"LineLeap",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/lineleap/
+"Momentic",startup,1,0,0,212500,https://matrixx-hiring-signals.pages.dev/companies/momentic/
+"Mutiny",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/mutiny/
+"Mytos",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/mytos/
+"Notabene",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/notabene/
+"Odeko",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/odeko/
+"OneSchema",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/oneschema/
+"Ophelia",startup,1,0,0,175000,https://matrixx-hiring-signals.pages.dev/companies/ophelia/
+"PermitFlow",startup,1,0,0,275000,https://matrixx-hiring-signals.pages.dev/companies/permitflow/
+"Pirros",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/pirros/
+"Popl",startup,1,0,1,160000,https://matrixx-hiring-signals.pages.dev/companies/popl/
+"PostEra",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/postera/
+"Postscript",startup,1,0,1,197500,https://matrixx-hiring-signals.pages.dev/companies/postscript/
+"RADAR",startup,1,0,0,211000,https://matrixx-hiring-signals.pages.dev/companies/radar/
+"Reflex",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/reflex/
+"Replo",startup,1,0,0,265000,https://matrixx-hiring-signals.pages.dev/companies/replo/
+"Sendbird",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/sendbird/
+"Shadeform",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/shadeform/
+"SnapMagic",startup,1,0,0,207500,https://matrixx-hiring-signals.pages.dev/companies/snapmagic/
+"Spur (Ashby)",startup,1,0,0,210000,https://matrixx-hiring-signals.pages.dev/companies/spur-ashby-2/
+"Trayd",startup,1,0,0,197500,https://matrixx-hiring-signals.pages.dev/companies/trayd/
+"Wonderly",startup,1,0,1,337500,https://matrixx-hiring-signals.pages.dev/companies/wonderly/
+"Xendit",startup,1,0,0,,https://matrixx-hiring-signals.pages.dev/companies/xendit/
+"Zippi",startup,1,0,1,,https://matrixx-hiring-signals.pages.dev/companies/zippi/
